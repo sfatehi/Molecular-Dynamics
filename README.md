@@ -1,2 +1,3 @@
-# hello-world
-Trial repository
+# This depository contains some snapshots of various Molecular Dynamics simulations 
+# that I used for material charecterization in lAMMPS.
+
